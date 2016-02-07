@@ -4,4 +4,7 @@
 
 ###To run the application :
 You need to have Python3, OpenCV, PyQt5
+
+![yo](/yo.png)
+
 ###Watch [how it works](https://youtu.be/3jW0Q5aroA0) 
